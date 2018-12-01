@@ -1,0 +1,9 @@
+! Quiz Game Questions/Answer
+! Question ID | Question | Answer
+#1#What is the capital of Ohio?#Columbus
+#2#What is the capital of West Virginia?#Charleston
+#3#What is the capital of Kentucky?#Frankfort
+#4#What is the capital of New York?#Albany
+#5#What is the capital of Utah?#Salt Lake City
+#6#What is the capital of New Mexico?#Santa Fe
+#7#What is the capital of Maryland?#Annapolis
